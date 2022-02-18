@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	cout<<"I'm a robot"<<endl;
+	cout<<"I'm a robot humanoid"<<endl;
 	return 0;
 }
