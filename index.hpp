@@ -1,5 +1,8 @@
 #include <iostream>
-
+#include <string>
 void helloWord(){
-	std::cin<<"Hello World!"<<std::endl;
+	std::string name;
+	std::cout<<"Saisir votre nom"<<std::endl;
+	cin>>name;
+	std::cout<<"HellokWorld!"<< name<<std::endl;
 }
