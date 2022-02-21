@@ -1,0 +1,1 @@
+taper la commande "make" dans le repertoire, le programme se lancera 
