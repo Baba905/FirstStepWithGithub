@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std ;
 void affiche(){
- cout<<"I am humanoid"<<endls;
+ cout<<"I am humanoid"<<endl;
 }
