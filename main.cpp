@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <string>
 #include "index.hpp"
@@ -10,5 +11,9 @@ void helloWorld(){
 
 int main(){
     helloWord();
+  std::cout<<"We are in the main place<<std::endl;
     return 0;
 }
+
+
+  
