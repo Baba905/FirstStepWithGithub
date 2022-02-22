@@ -11,7 +11,7 @@ void helloWorld(){
 
 int main(){
     helloWord();
-  std::cout<<"We are in the main place<<std::endl;
+  std::cout<<"We are in the main place"<<std::endl;
     return 0;
 }
 
